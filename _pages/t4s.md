@@ -1,17 +1,9 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      title: "Time for Shade"
-      permalink: /t4s/
-
+layout: archive
+title: "TIME_FOR_SHADE"
+permalink: /t4s/
+author_profile: true
 ---
-
 {% include base_path %}
 
 ### Hola!
