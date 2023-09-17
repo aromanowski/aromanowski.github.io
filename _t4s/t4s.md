@@ -1,12 +1,19 @@
 ---
-title: "Time for Shade"
-collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+title: "Time for Shade (#T4S)"
+collection: project
+type: "Project"
+permalink: /t4s/2023-08-31
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+## Why Time for Shade? Why is this important?
+
+### Meet the clock
+
+### Meet the Shade Avoidance Syndrome (SAS)
+
+### Meet pennycress
+
+## Impact during T4S 
+
+
 
