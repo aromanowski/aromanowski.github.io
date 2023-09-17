@@ -48,7 +48,7 @@ I will also attend the ‘International Symposium in Plant Photobiology’ (ISPP
 ### Meeting organisation
 I am currently the chair of the ‘2024 Young Researchers Symposium in Plant Photobiology’ (YRSPP 2024) organising committee, to be held in July, 2024 in Utrecht, NL. 
 
-![alt text](/images/YRSP2024_organizers.jpg "Time For Shade (c) Andrés Romanowski 2023")
+![alt text](/images/YRSPP2024_organizers.jpg "Time For Shade (c) Andrés Romanowski 2023")
 
 The honour of organising YRSPP2024 was bestowed upon us!
 
@@ -80,6 +80,7 @@ I will present a poster at the fourth biannual Utrecht Plant Science and Industr
 
 
 
+
 ![alt text](/images/PES_group_picture.jpg "Time For Shade (c) Andrés Romanowski 2023")
 
-Everyone at the group in Utrecht has been amazing. Thank you for sharing this time with me!
+Everyone at the group in Utrecht has been amazing!
