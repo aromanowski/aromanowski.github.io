@@ -8,3 +8,12 @@ redirect_from:
   - /t4s.html
 ---
 
+## Why Time for Shade? Why is this important?
+
+### Meet the clock
+
+### Meet the Shade Avoidance Syndrome (SAS)
+
+### Meet pennycress
+
+## Impact during T4S 
