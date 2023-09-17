@@ -12,4 +12,6 @@ defaults:
 
 ---
 
+{% include base_path %}
+
 ### Hola!
