@@ -12,6 +12,4 @@ defaults:
 
 ---
 
-{% include base_path %}
-
-<p>Hola!</p>
+### Hola!
