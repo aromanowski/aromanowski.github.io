@@ -48,6 +48,10 @@ I will also attend the ‘International Symposium in Plant Photobiology’ (ISPP
 ### Meeting organisation
 I am currently the chair of the ‘2024 Young Researchers Symposium in Plant Photobiology’ (YRSPP 2024) organising committee, to be held in July, 2024 in Utrecht, NL. 
 
+![alt text](/images/YRSP2024_organizers.jpg "Time For Shade (c) Andrés Romanowski 2023")
+
+The honour of organising YRSPP2024 was bestowed upon us!
+
 ### Publications and Open Access
 Publications arising from results of this action will be published in open access journals to maximise the range of academic beneficiaries. All datasets will be deposited in public repositories.
 
@@ -75,3 +79,7 @@ I participated at the Bachellor Showcase outreach event organised by the Utrecht
 I will present a poster at the fourth biannual Utrecht Plant Science and Industry Symposium (UPSIS) 2023 (September 29, 2023, Utrecht, NL) to network with potential industry partners. Here, I will discuss possibilities for translation of our fundamental research to application and to hear about the current challenges and problems in the plant industry. In this regard, UPSIS aims to facilitate one-on-one discussions during the poster and networking sessions. These sessions will not only provide me with an excellent opportunity to meet with the Utrecht staff, but also with Utrecht PhD candidates, MSc students and potential industry partners.
 
 
+
+![alt text](/images/PES_group_picture.jpg "Time For Shade (c) Andrés Romanowski 2023")
+
+Everyone at the group in Utrecht has been amazing. Thank you for sharing this time with me!
