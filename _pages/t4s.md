@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Time For Shade"
-permalink: /t4s/
+permalink: /t4s.md
 author_profile: true
 redirect_from: 
   - /t4s/
