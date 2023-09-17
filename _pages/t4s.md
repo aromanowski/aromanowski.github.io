@@ -12,7 +12,7 @@ author_profile: true
 ![alt text](/images/T4S.png "Time For Shade (c) Andrés Romanowski 2021")
 
 ## What is Time For Shade (#T4S)? Why is it important?
-The United Nations has set “Zero Hunger” as its 2nd Goal of Sustainable Development. According to this mandate, 815 million people today are suffering hunger and this number is expected to reach 2 billion by 2050. To meet these demands we need to increase food production. This can be achieved through 2 main mechanisms: arable land expansion or yield growth. As arable land becomes scarcer, we need to focus our efforts on increasing yield. The goal is to rethink agriculture.
+The United Nations has set “Zero Hunger” as its 2nd Goal of Sustainable Development. According to this mandate, 815 million people today are suffering hunger and this number is expected to reach 2 billion by 2050. To meet these demands we need to increase food production. This can be achieved through 2 main mechanisms: arable land expansion or yield growth. As arable land becomes scarcer, we need to focus our efforts on increasing yield. **The goal is to rethink agriculture.**
 
 Light limitation due to long-term shading by neighbouring plants is a major threat to food security, as it decreases overall yield. At high vegetation densities, shade-intolerant plants switch to a survival growth strategy known as the shade avoidance syndrome (SAS), that reconfigures overall architecture for optimal light capture. Of the diverse light-sensing photoreceptors that plants possess, phytochrome photoreceptors are exquisitely tuned to detect spectral changes indicative of nearby vegetation. These changes in light quality activate the phytochrome surveillance system, which in turn initiates compensatory changes in plant architecture and reproductive timing to suit more crowded conditions. Plants exhibiting SAS are characterised by elongation of growth of stem-like tissue, at the expense of harvestable organs (leaves, fruits, seeds, etc.). In nature, SAS is critical for plant survival, but it is troublesome for farmers, as it impacts crop robustness and yield. Interestingly, we have shown that the SAS response is tissue and developmental time specific. For example, if SAS occurs early in leaf development it leads to reduced cell numbers in leaf blades, and increased cell numbers in the leaf petioles. Whereas if this happens later in a leaf life, it reduces the cell size in leaf blades and increases it in leaf petioles. Overall, the plant uses two alternative strategies to obtain the same result: small leaf blades and elongated petioles.
 
@@ -22,7 +22,7 @@ Several lines of research indicate that the shade signal is only perceived by pl
 
 ![alt text](/images/clock_gating.png "Time For Shade (c) Andrés Romanowski 2021")
 
-T4S is an innovative project, using genetic, bioinformatics, novel tools and dynamic 3D imaging techniques to study how the circadian clock affects plant fitness under light limiting conditions, and explore the mechanism that links the clock to the SAS leaf cellular response. Moreover, identification of novel genetic targets will be eventually translated into pennycress, a newly domesticated oilseed crop. This will likely lead to increased crop yield and will inform other crop improvement efforts.
+T4S is an innovative project, using genetic, bioinformatics, novel tools and dynamic 3D imaging techniques **to study how the circadian clock affects plant fitness under light limiting conditions**, and explore the mechanism that links the clock to the SAS leaf cellular response. Moreover, identification of novel genetic targets will be eventually translated into pennycress, a newly domesticated oilseed crop. This will likely lead to increased crop yield and will inform other crop improvement efforts.
 
 ## Academic Impact
 ### Meetings and talks
@@ -50,7 +50,7 @@ I am currently the chair of the ‘2024 Young Researchers Symposium in Plant Pho
 
 ![alt text](/images/YRSPP2024_organizers.jpeg "Time For Shade (c) Andrés Romanowski 2023")
 
-The honour of organising YRSPP2024 was bestowed upon us!
+The honour of organising YRSPP2024 being bestowed upon us!
 
 ### Publications and Open Access
 Publications arising from results of this action will be published in open access journals to maximise the range of academic beneficiaries. All datasets will be deposited in public repositories.
@@ -64,6 +64,7 @@ Publications arising from results of this action will be published in open acces
 -	NPEC facility (UU, Utrecht, NL): dynamic phenotyping of lines of interest arising from the T4S project, including pennycress.
 
 Additionally, T4S has allowed me to collaborate internally with 3 other lab members to help analyse their transcriptomics datasets, which will likely lead to 3 future paper publications.
+
 
 ## Impact beyond research
 ### Equality, Diversity & Inclusion (EDI)
