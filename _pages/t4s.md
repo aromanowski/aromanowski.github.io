@@ -48,7 +48,7 @@ Publications arising from results of this action will be published in open acces
 Additionally, T4S has allowed me to collaborate internally with 3 other lab members to help analyse their transcriptomics datasets, which will likely lead to 3 future paper publications.
 
 ## Impact beyond research
-### EDI
+### Equality, Diversity & Inclusion (EDI)
 As an Equality, Diversity and Inclusion (EDI) committee member, I helped drive actions towards achieving the goals set in the UU Faculty of Science Equality, Diversity and Inclusion (EDI) Plan 2021-2025. As the EDI project leader I helped establish 4 working groups with volunteers from all departments of the Faculty of Science to work on concrete actions related to EDI.
 
 ### Open Science
