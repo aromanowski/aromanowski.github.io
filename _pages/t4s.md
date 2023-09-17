@@ -9,6 +9,8 @@ author_profile: true
 
 # Welcome to Time For Shade!
 
+![alt text](/images/T4S.png "Time For Shade (c) Andrés Romanowski 2021")
+
 ## What is Time For Shade (#T4S)? Why is it important?
 The United Nations has set “Zero Hunger” as its 2nd Goal of Sustainable Development. According to this mandate, 815 million people today are suffering hunger and this number is expected to reach 2 billion by 2050. To meet these demands we need to increase food production. This can be achieved through 2 main mechanisms: arable land expansion or yield growth. As arable land becomes scarcer, we need to focus our efforts on increasing yield. The goal is to rethink agriculture.
 
@@ -32,6 +34,10 @@ We have reached broad academic impact through participation in talks and meeting
 -	2023 Dutch Chronobiology Meeting (April 17, 2023, Leiden, NL) – for networking purposes.
 -	2023 Experimental Plant Sciences (EPS) meeting (April 17-18, 2023, Lunteren, NL) – attended the second day for networking purposes.
 -	2023 NWO VICI closing workshop, invited by Prof. Richard Immink (WUR, NL) (May 15, 2023, NWO, Utrecht, NL) – invited speaker.
+
+![alt text](/images/EBRS_meeting.jpg "Time For Shade (c) Andrés Romanowski 2023")
+
+At the European Biological Rhythms Society (EBRS) meeting in beautiful Zurich, Switzerland.
 
 I will also attend the ‘International Symposium in Plant Photobiology’ (ISPP) to be held in India, early in January 2024, to further expand my research networks and disseminate the resulting work of this action.
 
