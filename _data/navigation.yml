@@ -9,8 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
       
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "TIME_FOR_SHADE"
+    url: /t4s/
     
   - title: "CV"
     url: /cv/
