@@ -37,6 +37,16 @@ I am currently the chair of the ‘2024 Young Researchers Symposium in Plant Pho
 ### Publications and Open Access
 Publications arising from results of this action will be published in open access journals to maximise the range of academic beneficiaries. All datasets will be deposited in public repositories.
 
+### New collaborations!
+-	Prof. Dmitri Nusinow (Danforth Center, St Louis, Missouri, USA): joint photobiology/circadian related work, including sharing of resources.
+-	Dr. Uriel Urquiza (CEPLAS, Dusseldorf, Germany): modelling based on T4S data.
+-	Prof. Karen Halliday (University of Edinburgh, Scotland, UK): joint photobiology related work, including sharing of resources.
+-	Dr. Valerio Giuffrida (University of Nottingham, England, UK): machine learning based tool software to speed up leaf blade DIC microscopy image processing, bringing down the required time for image analyses and also avoid user introduced bias.
+-	Dr. Lucas Frungillo and Dr. Livia Scorza (University of Edinburgh, Scotland, UK): to develop joint projects with pennycress and bring down existing barriers to help establish it as a rotational crop in the UK and the EU.
+-	NPEC facility (UU, Utrecht, NL): dynamic phenotyping of lines of interest arising from the T4S project, including pennycress.
+
+Additionally, T4S has allowed me to collaborate internally with 3 other lab members to help analyse their transcriptomics datasets, which will likely lead to 3 future paper publications.
+
 ## Impact beyond research
 ### EDI
 As an Equality, Diversity and Inclusion (EDI) committee member, I helped drive actions towards achieving the goals set in the UU Faculty of Science Equality, Diversity and Inclusion (EDI) Plan 2021-2025. As the EDI project leader I helped establish 4 working groups with volunteers from all departments of the Faculty of Science to work on concrete actions related to EDI.
@@ -46,16 +56,6 @@ As an Open Science ambassador, I helped write and put into action a Data Managem
 
 ### Outreach
 I participated at the Bachellor Showcase outreach event organised by the Utrechtse Biologen Vereniging (Utrecht, NL), as a Plant Sciences ambassador representing the entire group (January 19, 2023, Utrecht University, Utrecht, NL). It was an opportunity to meet several Biology  BSc students at different points in their career and talk to them about the different plant science initiatives and projects that were currently taking place within the UU Plant-Environment Signaling group.
-
-### New collaborations
--	Prof. Dmitri Nusinow (Danforth Center, St Louis, Missouri, USA): joint photobiology/circadian related work, including sharing of resources.
--	Dr. Uriel Urquiza (CEPLAS, Dusseldorf, Germany): modelling based on T4S data.
--	Prof. Karen Halliday (University of Edinburgh, Scotland, UK): joint photobiology related work, including sharing of resources.
--	Dr. Valerio Giuffrida (University of Nottingham, England, UK): machine learning based tool software to speed up leaf blade DIC microscopy image processing, bringing down the required time for image analyses and also avoid user introduced bias.
--	Dr. Lucas Frungillo and Dr. Livia Scorza (University of Edinburgh, Scotland, UK): to develop joint projects with pennycress and bring down existing barriers to help establish it as a rotational crop in the UK and the EU.
--	NPEC facility (UU, Utrecht, NL): dynamic phenotyping of lines of interest arising from the T4S project, including pennycress.
-
-Additionally, T4S has allowed me to collaborate internally with 3 other lab members to help analyse their transcriptomics datasets, which will likely lead to 3 future paper publications.
 
 ### Industry engagement
 I will present a poster at the fourth biannual Utrecht Plant Science and Industry Symposium (UPSIS) 2023 (September 29, 2023, Utrecht, NL) to network with potential industry partners. Here, I will discuss possibilities for translation of our fundamental research to application and to hear about the current challenges and problems in the plant industry. In this regard, UPSIS aims to facilitate one-on-one discussions during the poster and networking sessions. These sessions will not only provide me with an excellent opportunity to meet with the Utrecht staff, but also with Utrecht PhD candidates, MSc students and potential industry partners.
