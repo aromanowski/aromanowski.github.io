@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-#
+
 # Welcome to Time For Shade!
 
 ## What is Time For Shade (#T4S)? Why is it important?
