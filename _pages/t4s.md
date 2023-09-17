@@ -19,6 +19,7 @@ Light limitation due to long-term shading by neighbouring plants is a major thre
 Several lines of research indicate that the shade signal is only perceived by plants at dusk, through a mechanism known as ‘gating’. Gating is controlled by the plant’s internal clock – namely the circadian clock. This endogenous timing mechanism allows a plant to fine-tune its physiology to a cyclical environment. Furthermore, proper internal timing that matches the environment is beneficial for plants and leads to optimised fitness and survival. However, almost nothing is known about how gating affects plant fitness under SAS. Our data indicate that disruption of different elements that make up the clock results in plants that have an architecture very similar to SAS affected plants. Furthermore, as the clock has been tied to the cell cycle, this suggests a possible mechanism through which the clock could be directly controlling the leaf cellular response under SAS. Additionally, using a powerful bioinformatics approach we discovered an unexpected and potentially new avenue through which the clock and the phytochrome photoreceptors could be coordinately regulating leaf size, ultimately impacting biomass (a key predictor of crop yield).
 
 ![alt text](/images/intro_to_SAS_and_clock.png "(c) Andrés Romanowski 2021")
+
 **SAS and the clock**. A) Images of wild type plants under normal (WL) or shade-like conditions (EoD FR) and several clock mutants that look like shaded plants (muts. A-D). B) Blade area (black) and petiole length (grey) of the plants shown in (A) against the wild-type (Col-0) under normal (WL) conditions. C-D) Several cell cycle related genes (C) and ribosome biogenesis (D) are both under control of shade and clock signalling. A venn diagram shows the amount of overlapping genes (left). Normalised gene expression (sclaed logCPMs) of key target genes involved in the process. 
 
 T4S is an innovative project, using genetic, bioinformatics, novel tools and dynamic 3D imaging techniques to study how the circadian clock affects plant fitness under light limiting conditions, and explore the mechanism that links the clock to the SAS leaf cellular response. Moreover, identification of novel genetic targets will be eventually translated into pennycress, a newly domesticated oilseed crop. This will likely lead to increased crop yield and will inform other crop improvement efforts.
@@ -37,6 +38,8 @@ We have reached broad academic impact through participation in talks and meeting
 -	2023 Dutch Chronobiology Meeting (April 17, 2023, Leiden, NL) – for networking purposes.
 -	2023 Experimental Plant Sciences (EPS) meeting (April 17-18, 2023, Lunteren, NL) – attended the second day for networking purposes.
 -	2023 NWO VICI closing workshop, invited by Prof. Richard Immink (WUR, NL) (May 15, 2023, NWO, Utrecht, NL) – invited speaker.
+
+![alt text](/images/EBRS_meeting.jpg "Time For Shade (c) Andrés Romanowski 2023")
 
 I will also attend the ‘International Symposium in Plant Photobiology’ (ISPP) to be held in India, early in January 2024, to further expand my research networks and disseminate the resulting work of this action.
 
