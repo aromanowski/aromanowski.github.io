@@ -5,12 +5,52 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+#{% if author.googlescholar %}
+#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+#{% endif %}
 
-{% include base_path %}
+#{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+#{% for post in site.publications reversed %}
+#  {% include archive-single.html %}
+#{% endfor %}
+
+
+## FULL LIST OF JOURNAL PUBLICATIONS
+The quality of my work is evidenced by my publication record (22 papers, all in international peer-reviewed Q1 journals, such as Current Biology, PNAS, The Plant Journal, among others). In my current field of research, first, second and last authorships are important, as they indicate that a major role was played for the published work. I currently have 2 publications as a corresponding author (╪), 9 as first-author (*), and 13 as a contributing author (5 of these as second author). Shared authorships are underlined . 
+
+1.	Sorkin ML, Tzeng SC, King S, Romanowski A, Kahle N, Bindbeutel R, Hiltbrunner A, Yanovsky MJ, Evans BS, Nusinow DA. COR27/28 Regulate the Evening Transcriptional Activity of the RVE8-LNK1/2 Circadian Complex. Plant Physiol. 2023 Apr 5;kiad210. doi: 10.1093/plphys/kiad210. Citations: n/a. SJR 2021: 2.33 (Q1 – Plant Science).
+2.	Zieliński T, Hay J, Romanowski A, Nenninger A, McCormick A, Millar AJ. SynBio2Easy-a biologist-friendly tool for batch operations on SBOL designs with Excel inputs. Synth Biol (Oxf). 2022 Jan 26;7(1):ysac002. doi: 10.1093/synbio/ysac002. eCollection 2021. Citations: 1. SJR 2021: 0.91 (Q1 – Biotechnology).
+3.	Hussain E, Romanowski A, Halliday KJ. PIF7 controls leaf cell proliferation through an AN3 substitution repression mechanism. PNAS. 2022 Feb 1;119(5):e2115682119. doi: 10.1073/pnas.2115682119. Citations: 5. SJR 2021: 4.18 (Q1 – Multidisciplinary)
+4.	Romanowski A*,╪, Furniss JJ, Hussain E, Halliday KJ. Phytochrome regulates cellular response plasticity and the basic molecular machinery of leaf development. Plant Phys. 2021 Jun 11;186(2):1220-1239. doi: 10.1093/plphys/kiab112. Citations: 12. SJR 2021: 2.33 (Q1 – Plant Science).
+5.	Krahmer J, Abbas A, Mengin V, Ishihara H, Romanowski A, Furniss JJ, Alexandre Moraes T, Krohn N, Annunziata MG, Feil R, Alseekh S, Obata T, Fernie AR, Stitt M, Halliday KJ, Phytochromes control metabolic flux, and their action at the seedling stage determines adult plant biomass. J Exp Bot. 2021 Feb 5; erab038. doi: 10.1093/jxb/erab038. Citations: 3. SJR 2019: 2.65 (Q1 - Physiology). 
+6.	Parry G, Provart NJ, Brady SM, Uzilday B, Multinational Arabidopsis Steering Committee (MASC). Current status of the multinational Arabidopsis community. Plant Direct. 2020 Aug 2;4(7):e00248. doi: 10.1002/pld3.248 (as part of MASC). Citations: 6. SJR 2019: 0.91 (Q1 - Ecology).
+7.	Romanowski A*,╪, Schlaen G, Perez-Santangelo S, Mancini E, Yanovsky M. Global transcriptome analysis reveals circadian control of splicing events in Arabidopsis thaliana. Plant J.  2020 Jul;103(2):889-902. Epub 2020 May 18. doi: 10.1111/tpj.14776 (This publication achieved an “Open Data” and “Open Material” badge award, for open science research practices) (preprint version highlighted in Plantae – Plant Science Research Weekly). Citations: 33. SJR 2019: 3.16 (Q1 – Cell Biology). 
+8.	De Leone MJ, Hernando CE, Romanowski A, Faigón Soverna A, Sun C, Bologna NG, Schneeberger K, Yanovsky MJ. Bacterial infection disrupts clock gene expression to attenuate immune responses. Curr. Biol. 2020, in press. Epub 2020 Mar 26. doi: 10.1016/j.cub.2020.02.058 (shared second authorship). Cit: 20. SJR 2019: 3.96 (Q1 – Agricultural and Biological Sciences).
+9.	Goya ME, Xue F, Sampedro-Torres-Quevedo C, Arnaouteli S, Riquelme-Dominguez L, Romanowski A, Brydon J, Ball K, Stanley-Wall NR, Doitsidou M. Probiotic Bacillus subtilis protects against α-synuclein aggregation in C. elegans. Cell Reports 2020, 30(2): 367-380. Epub 2020 Jan 14. doi: 10.1016/j.celrep.2019.12.078. Citations: 96. SJR 2019: 6.06 (Q1 – Biochemistry, Genetics and Molecular Biology).
+10.	De Leone MJ*, Hernando CE*, Romanowski A*, Garcia-Hourquet M, Careno D, Casal J, Rugnone M, Mora-Garcia S, Yanovsky MJ. The LNK Gene Family: At the Crossroad between Light Signaling and the Circadian Clock. Genes 2019, 10(1). Epub 2018 Dec 20. doi:10.3390/genes10010002 (shared first authorship). Citations: 16. SJR 2018: 1.59 (Q1 – Genetics).
+11.	Krahmer J, Ganpudi A, Abbas A, Romanowski A, Halliday KJ. Phytochrome, metabolism and growth plasticity. Plant Phys. 2017 Dec 18. doi: 10.1104/pp.17.01437. Citations: 46. SJR 2017: 3.62 (Q1 – Genetics).
+12.	Hernando CE*, Romanowski A*, Yanovsky MJ. Transcriptional and post-transcriptional control of the plant circadian gene regulatory network. Biochim Biophys Acta 2016 Jul 10. pii: S1874-9399(16)30133-X. doi: 10.1016/j.bbagrm.2016.07.001 (shared first authorship). Citations: 49. SJR 2015: 4.58 (Q1 – Biochemistry).
+13.	Goya ME, Romanowski A, Caldart CS, Bénard C, Golombek DA. Circadian rhythms identified in Caenorhabditis elegans by in vivo long-term monitoring of a bioluminescent reporter. PNAS 2016 Nov 29; 113(48): E7837-E7845. Epub 2016 Nov 14. doi: 10.1073/pnas.1605769113. Citations: 34. SJR 2015: 6.81 (Q1 – Multidisciplinary).
+14.	Mancini E, Sanchez SE, Romanowski A, Schlaen RG, Sanchez-Lamas M, Cerdán PD, Yanovsky MJ. Acute Effects of Light on Alternative Splicing in Light-Grown Plants.”. Photochem Photobiol. 2015 Nov 17. doi: 10.1111/php.12550. Citations: 47. SJR 2014: 0.62 (Q1 – Radiation).
+15.	Herrero A*, Romanowski A*, Meelkop E*, Caldart C, Schoofs L, Golombek DA. Pigment-dispersing factor (Pdf) signaling in the circadian system of Caenorhabditis elegans. Genes Brain Behav. 2015 Jun 26. doi: 10.1111/gbb.12231 (shared first authorship). Citations: 10. SJR 2014: 2.07 (Q1 – Behavioral neuroscience).
+16.	Romanowski A*, Yanovsky MJ. Circadian rhythms and post-transcriptional regulation in higher plants. Front Plant Sci. 2015 Jun 12; 6:437. doi: 10.3389/fpls.2015.00437. Citations: 81. SJR 2014: 1.83 (Q1 – Plant Scence).
+17.	Romanowski A*, Garavaglia MJ, Goya ME, Ghiringhelli PD, Golombek DA. Potential Conservation of Circadian Clock Proteins in the phylum Nematoda as Revealed by Bioinformatic Searches. PLoS ONE 2014 Nov 14; 9(11):e112871; doi: 10.1371/journal.pone.0112871. Citations: 16. SJR 2013: 1.77 (Q1 – Multidisciplinary).
+18.	Migliori ML, Romanowski A, Simonetta SH, Valdez D, Guido M, Golombek DA. Daily variation in melatonin synthesis and arylalkylamine N-acetyltransferase activity in the nematode Caenorhabditis elegans. J Pineal Res. 2012 Aug; 53(1):38-46. doi: 10.1111/j.1600-079X.2011.00969.x. Citations: 44. SJR 2011: 1.32 (Q1 – Endocrinology).
+19.	Migliori ML, Simonetta SH, Romanowski A, Golombek DA. Circadian rhythms in metabolic variables in Caenorhabditis elegans”. Physiol Behav. 2011 Jun 1;103(3-4):315-20. doi: 10.1016/j.physbeh.2011.01.026. Citations: 41. SJR 2010: 1.24 (Q1 – Philosophy).
+20.	Romanowski A*, Migliori ML, Valverde CL, Golombek DA. Circadian variation in Pseudomonas fluorescens (CHA0)-mediated paralysis of Caenorhabditis elegans. Microb Pathog. 2011 Jan;50(1):23-30. doi: 10.1016/j.micpath.2010.09.001. Citations: 20. SJR 2010: 0.88 (Q2 – Microbiology).
+21.	Simonetta SH, Migliori ML, Romanowski A, Golombek DA. Timing of locomotor activity circadian rhythms in Caenorhabditis elegans. PLoS ONE 2009 Oct 27;4(10):e7571. doi: 10.1371/journal.pone.0007571. Citations: 52. SJR 2008: 2.51 (Q1 – Biochemistry, Genetics and Molecular Biology).
+22.	Simonetta SH*, Romanowski A*, Minniti AN, Ceriani MF and Golombek DA. Circadian stress tolerance in adult Caenorhabditis elegans. J Comp Physiol A Neuroethol Sens Neural Behav Physiol. 2008 Sep;194(9):821-8. doi: 10.1007/s00359-008-0353-z (shared first authorship). Citations: 45. SJR 2007: 1.21 (Q1 – Ecology, Evolution, Behavior and Systematics).
+
+## PREPRINTS
+1.	Sorkin ML, Tzeng SC, Romanowski A, Kahle N, Bindbeutel R, Hiltbrunner A, Yanovsky MJ, Evans BS, Nusinow DA. COR27/28 Regulate the Evening Transcriptional Activity of the RVE8-LNK1/2 Circadian Complex. bioRxiv 2022 2022.05.16.492168v2; doi: 10.1101/2022.05.16.492168
+2.	Arsovski AA, Zemke JE, Hamm M, Houston L, Romanowski A, Halliday KJ, Nesi N, Nemhause JL. BrphyB is critical for rapid recovery to darkness in mature Brassica rapa leaves. bioRxiv 2020 2020.05.22.111245; doi: 10.1101/2020.05.22.111245. Citations: 1.
+3.	Ganpudi A, Romanowski A, Halliday KJ. HEXOKINASE 1 Glycolytic Action Fuels Post-Germinative Seedling Growth. bioRxiv 2019 548990; doi: 10.1101/548990. Citations: 3.
+
+## PATENTS
+•	Sanchez SE, Rugnone M, Schlaen RG, Faigon-Soverna A, Romanowski A, Yanovsky MJ. Invention Patent: “Lnk transgenic plants”. Applied by: CONICET, FUNDACION INSTITUTO LELOIR, INIS BIOTECH LLC. International Application: PCT/IB2014/058836. Publication number: WO/2014/122607. Date: 14/08/14.
+
+## BOOK CHAPTERS
+1.	2015 Romanowski A, Romanowski V, “Métodos de biología molecular en el laboratorio endocrinológico”. In: Calandra RS, Barontini MB (eds), Pisarev MA, Juvenal GJ, Rey R (assoc. eds), “Fisiopatología Molecular y Clínica Endocrinológica”. Neuhaus Industria Gráfica, Bs. As., Argentina, 2015. Print edition: ISBN 978-987-45792-0-1. Digital edition: ISBN 978-987-45792-1-8.
+2.	2012 Romanowski A, Goya ME, Migliori ML, Simonetta SH, Golombek DA “Circadian regulation of abiotic stress tolerance in Caenorhabditis elegans.” In: Haryana N and Punj S (eds), Abiotic Stress: New Research. Nova Science Publishers. Hauppauge, New York. ISBN 978-1-61942-197-4. Citations: 2.
+3.	2007 Romanowski A. “Evolución en acción: el caso de las babosas fotosintéticas.” In: Lozano M, Goñi S (coordinadores), Centeno R (editor), Belaich M and Pierini M (directores), “Leis et investigare. La bioquímica del estudiante (Serie digital 5. Ciencia y Tecnología)”. Universidad Nacional de Quilmes, Bernal, Bs. As., Argentina. ISBN 978-987-558-229-3.
