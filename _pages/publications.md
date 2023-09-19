@@ -5,17 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
-
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
-
-
 ## FULL LIST OF JOURNAL PUBLICATIONS
 The quality of my work is evidenced by my publication record (22 papers, all in international peer-reviewed Q1 journals, such as Current Biology, PNAS, The Plant Journal, among others). In my current field of research, first, second and last authorships are important, as they indicate that a major role was played for the published work. I currently have 2 publications as a corresponding author (╪), 9 as first-author (*), and 13 as a contributing author (5 of these as second author). Shared authorships are underlined . 
 
@@ -41,6 +30,8 @@ The quality of my work is evidenced by my publication record (22 papers, all in 
 20.	Romanowski A*, Migliori ML, Valverde CL, Golombek DA. Circadian variation in Pseudomonas fluorescens (CHA0)-mediated paralysis of Caenorhabditis elegans. Microb Pathog. 2011 Jan;50(1):23-30. doi: 10.1016/j.micpath.2010.09.001. Citations: 20. SJR 2010: 0.88 (Q2 – Microbiology).
 21.	Simonetta SH, Migliori ML, Romanowski A, Golombek DA. Timing of locomotor activity circadian rhythms in Caenorhabditis elegans. PLoS ONE 2009 Oct 27;4(10):e7571. doi: 10.1371/journal.pone.0007571. Citations: 52. SJR 2008: 2.51 (Q1 – Biochemistry, Genetics and Molecular Biology).
 22.	Simonetta SH*, Romanowski A*, Minniti AN, Ceriani MF and Golombek DA. Circadian stress tolerance in adult Caenorhabditis elegans. J Comp Physiol A Neuroethol Sens Neural Behav Physiol. 2008 Sep;194(9):821-8. doi: 10.1007/s00359-008-0353-z (shared first authorship). Citations: 45. SJR 2007: 1.21 (Q1 – Ecology, Evolution, Behavior and Systematics).
+
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 ## PREPRINTS
 1.	Sorkin ML, Tzeng SC, Romanowski A, Kahle N, Bindbeutel R, Hiltbrunner A, Yanovsky MJ, Evans BS, Nusinow DA. COR27/28 Regulate the Evening Transcriptional Activity of the RVE8-LNK1/2 Circadian Complex. bioRxiv 2022 2022.05.16.492168v2; doi: 10.1101/2022.05.16.492168
