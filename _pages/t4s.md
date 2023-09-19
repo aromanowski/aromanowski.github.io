@@ -50,7 +50,7 @@ I am currently the chair of the ‘2024 Young Researchers Symposium in Plant Pho
 
 ![alt text](/images/YRSPP2024_organizers.jpeg "Time For Shade (c) Andrés Romanowski 2023")
 
-The honour of organising YRSPP2024 being bestowed upon us!
+The honour of organising YRSPP2024 being bestowed upon us!{:style="text-align: center"}
 
 ### Publications and Open Access
 Publications arising from results of this action will be published in open access journals to maximise the range of academic beneficiaries. All datasets will be deposited in public repositories.
@@ -83,4 +83,4 @@ I will present a poster at the fourth biannual Utrecht Plant Science and Industr
 
 ![alt text](/images/PES_group_picture.jpg "Time For Shade (c) Andrés Romanowski 2023"){:style="display:block; margin-left:auto; margin-right:auto"}
 
-Everyone at the group in Utrecht has been amazing!
+Everyone at the group in Utrecht has been amazing!{:style="text-align: center"}
