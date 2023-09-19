@@ -81,7 +81,8 @@ I will present a poster at the fourth biannual Utrecht Plant Science and Industr
 
 
 
-
-![alt text](/images/PES_group_picture.jpg "Time For Shade (c) Andrés Romanowski 2023")
+{:refdef: style="text-align: center;"}
+![alt text]({{ site.baseimg }}/images/PES_group_picture.jpg "Time For Shade (c) Andrés Romanowski 2023")
+{: refdef}
 
 Everyone at the group in Utrecht has been amazing!
