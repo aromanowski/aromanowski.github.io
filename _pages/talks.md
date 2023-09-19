@@ -4,6 +4,7 @@ title: "Talks and presentations"
 permalink: /talks/
 author_profile: true
 ---
+{% include base_path %}
 
 ## TALKS, POSTER PRESENTATIONS AND MEETINGS ATTENDANCE
 36 invited presentations in local/regional (17) and international (19) events, including (last 7 years):
