@@ -41,7 +41,7 @@ We have reached broad academic impact through participation in talks and meeting
 
 ![alt text](/images/EBRS_meeting.jpg "Time For Shade (c) Andrés Romanowski 2023")
 
-At the European Biological Rhythms Society (EBRS) meeting in beautiful Zurich, Switzerland.
+At the European Biological Rhythms Society (EBRS) meeting in beautiful Zurich, Switzerland.{:style="text-align: center"}
 
 I will also attend the ‘International Symposium in Plant Photobiology’ (ISPP) to be held in India, early in January 2024, to further expand my research networks and disseminate the resulting work of this action.
 
