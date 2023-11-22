@@ -86,4 +86,4 @@ I will present a poster at the fourth biannual Utrecht Plant Science and Industr
 <center>Everyone at the group in Utrecht has been amazing!</center>
 
 ### Acknowledgements
-![alt text](/images/EU_emblem_normal-reproduction-low-resolution.jpg "This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101026742 - TIME_FOR_SHADE"){: width="250" } This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101026742 - TIME_FOR_SHADE 
+![alt text](/images/EU_emblem_normal-reproduction-low-resolution.jpg "This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101026742 - TIME_FOR_SHADE"){:width="250"} This project has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 101026742 - TIME_FOR_SHADE 
